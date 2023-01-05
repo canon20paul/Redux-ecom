@@ -42,3 +42,17 @@
 .nav-link, .navbar-brand{
   color: white !important
 }
+h1{
+  font-size: 18px !important;
+}
+.img-fluid {
+  height: 200px !important
+}
+.form-control{
+  margin-top:10px;
+  border-color: black !important;
+}
+.btn-success{
+  margin-top:10px;
+  float: left;
+}
