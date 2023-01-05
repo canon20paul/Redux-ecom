@@ -6,6 +6,7 @@ import Additem from './Additem';
 import Cart from './Cart';
 import Footer from './Footer';
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import bootstrap from '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 
 
