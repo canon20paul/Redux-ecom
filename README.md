@@ -18,7 +18,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://canon20paul.github.io/Portfolio-Paul-Malongo/)
+[Live Demo Link](https://github.com/canon20paul/Redux-ecom)
 
 
 ## Source
